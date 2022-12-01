@@ -10,6 +10,7 @@ public class CommunityApplication {
 	{
 		System.out.println("hello world");
 		System.out.println("hello git4");
+		System.out.println("hello git5");
 		SpringApplication.run(CommunityApplication.class, args);
 	}
 
