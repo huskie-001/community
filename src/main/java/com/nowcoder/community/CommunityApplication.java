@@ -12,6 +12,7 @@ public class CommunityApplication {
 		System.out.println("hello git4");
 		System.out.println("master commite2");
 		System.out.println("hello git5");
+		System.out.println("hello git6");
 		SpringApplication.run(CommunityApplication.class, args);
 	}
 
